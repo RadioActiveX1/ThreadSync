@@ -40,6 +40,7 @@ After successful compilation, you can run the executable:
 
 ## File Structure
 multithreaded_app.cpp: The main source code file.
+
 CMakeLists.txt: CMake configuration file for building the application.
 
 ## Customization
